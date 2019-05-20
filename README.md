@@ -1,4 +1,4 @@
-# This repository hosts the code for NCCS
+# This repository hosts the code for Lab
 # Description
 - Merged (Aizaz)
 - Merged (Aiza)
